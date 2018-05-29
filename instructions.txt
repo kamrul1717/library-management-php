@@ -1,0 +1,6 @@
+must create a database with name 'lms'
+and set username and password. My username: root, password:''
+
+just change connection.php with username and password in both student and librarian folders.
+
+import lms.sql in your database with the help of phpmyadmin or other
